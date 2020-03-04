@@ -1,3 +1,3 @@
 <h1> Hello, Hi,Welcome to Valaxy Technologies !!! </h1>
-HI, THIS IS VANDANA /n
+</h2> HI, THIS IS VANDANA </h2>
 Hi, This is vihaan reddy
